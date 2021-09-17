@@ -83,4 +83,4 @@ Os dados devem ser passados no formato JSON, conforme exemplo abaixo:
 - DELETE/ cotacoes/{id}
 ```sh
 Exclui a cotação com o id informado na requisição.
-```,
+```
